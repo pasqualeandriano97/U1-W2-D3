@@ -227,6 +227,7 @@ for (i = 0; i < charactersNames.lenght; i++) {
       charactersNames.splice(i, 1);
   }
 }
+console.log(charactersNames.length);
 
 /* --EXTRA-- ESERCIZIO 10
   Crea una funzionalità che selezioni un elemento casuale dall'array "starWarsCharacters" e ne stampi in console le proprietà in modo discorsivo (a tuo piacimento).
